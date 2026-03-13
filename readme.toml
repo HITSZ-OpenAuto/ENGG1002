@@ -1,20 +1,20 @@
 course_name = "工程训练（金工实习）"
-repo_type = "normal"
 course_code = "ENGG1002"
-
+repo_type = "normal"
 description = "《工程训练（制造工艺实习）》与《工程训练（金工实习）》课程内容基本一致，考核要求也相同，主要是项目制作内容不同：金工实习为格斗机器人制作，制造工艺实习为救援机器人制作。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "工程训练中心教师团队(集体)"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "几乎所有工程训练中心的老师都会参与到这门课中，其中不乏「南工」系列竞赛的指导老师，如果你想多打相关比赛的话可以和他们联系。"
 author = { name = "longlin", link = "https://github.com/longlin10086", date = "2024-12" }
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "上课时老师们都会手把手讲解具体操作，老师演示的时候认真听基本就没啥问题，不会的地方直接问老师就好。"
 author = { name = "longlin", link = "https://github.com/longlin10086", date = "2024-12" }
-
 
 [[sections]]
 title = "学习建议"
@@ -34,7 +34,6 @@ content = """
 结课设计也不是很难，主要是画出护甲、机身底板和武器的 3D 图纸，由于代码已经给出，没有电控需求，装配完成即可使用。而格斗机器人作为一个竞赛，网上也有很多比赛车可供设计参考。
 """
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-07" }
-
 
 [[sections]]
 title = "课程安排"
