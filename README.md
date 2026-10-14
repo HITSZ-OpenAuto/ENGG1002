@@ -1,13 +1,5 @@
 # ENGG1002 - 工程训练（金工实习）
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![工程认知（课堂作业）15%](https://img.shields.io/badge/工程认知（课堂作业）-15%25-wheat)
-![工程素养（出勤）15%](https://img.shields.io/badge/工程素养（出勤）-15%25-wheat)
-![工程技能（训练内容）30%](https://img.shields.io/badge/工程技能（训练内容）-30%25-wheat)
-![工程综合（项目制作）30%](https://img.shields.io/badge/工程综合（项目制作）-30%25-wheat)
-![工程创新（项目创新）10%](https://img.shields.io/badge/工程创新（项目创新）-10%25-wheat)
 
 《工程训练（制造工艺实习）》与《工程训练（金工实习）》课程内容基本一致，考核要求也相同，主要是项目制作内容不同：金工实习为格斗机器人制作，制造工艺实习为救援机器人制作。
 
