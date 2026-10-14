@@ -1,0 +1,57 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814456,
+    "hash": "116e06f7bb8f8f2f70f38dc6a4d1ae5156e63077"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1734673385,
+    "hash": "2b54f9cca90e5de2f50d403885e5e1255ed4b92c"
+  },
+  "README.md": {
+    "size": 4753,
+    "time": 1791961400,
+    "hash": "377fb782cf42fef052b15f2af2b3209e0390741f"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737539138,
+    "hash": "6f0527eaf6493e214ed04f626fa342d528f0defd"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1737539138,
+    "hash": "6f0527eaf6493e214ed04f626fa342d528f0defd"
+  },
+  "labs/结课课设/附件1 20xx级xx专业xx班xx组——答辩PPT最新版本20240619.pptx": {
+    "size": 233749,
+    "time": 1734928846,
+    "hash": "e78701ccee882653ac117d3d8c242945ae929cbf"
+  },
+  "labs/结课课设/附件2 20xx级xx专业xx班xx组——工程综合项目报告 .docx": {
+    "size": 38538,
+    "time": 1734928846,
+    "hash": "e78701ccee882653ac117d3d8c242945ae929cbf"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737539138,
+    "hash": "6f0527eaf6493e214ed04f626fa342d528f0defd"
+  },
+  "readme.toml": {
+    "size": 4801,
+    "time": 1780122634,
+    "hash": "f610842fd71b9cecbf43f4d2413d6553f54dd6fd"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737539138,
+    "hash": "6f0527eaf6493e214ed04f626fa342d528f0defd"
+  },
+  "slides/2024春金工实习相关竞赛介绍.pptx": {
+    "size": 21268609,
+    "time": 1734928846,
+    "hash": "e78701ccee882653ac117d3d8c242945ae929cbf"
+  }
+}
